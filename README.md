@@ -1,5 +1,5 @@
 # WebCamStreamOnTCP_Netbeans_Java
-This is a simple Netbeans Java project which implements stream video captured by web camera and recording. This is a similar project with project: https://github.com/WangSL777/WebCamStreamOnTCP_QT, which is implemented in QT platform, while this project is implement in Netbeans using Java.
+This is a simple Netbeans Java project which implements stream video captured by web camera and recording. This is a similar project with project: https://github.com/WangSL777/WebCamStreamOnTCP_QT, which is implemented in QT platform using C++, while this project is implement in Netbeans using Java.
 
 ## File description:
 - `webCamClient` folder contains Java source code and Netbeans project files for client. 
